@@ -17,7 +17,7 @@
 
 ## Deploy to heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Drz103/RadBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZEXOO/V3)
 
 Heroku Buildpack
 ```bash 
