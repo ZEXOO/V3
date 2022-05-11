@@ -15,7 +15,7 @@ let chalk = require('chalk')
 
 global.linkGC = ['https://chat.whatsapp.com/JT4xjIY1F3rGl8GtzgfxsN', 'https://chat.whatsapp.com/JT4xjIY1F3rGl8GtzgfxsN', 'https://chat.whatsapp.com/JT4xjIY1F3rGl8GtzgfxsN'] // ganti jadi group lu
 global.owner = ['6289668726356', '6289668726356', '6289668726356'] // Masukan nomot kalian
-global.mods = ['6287892711054', '6287892711054'] // Moderator
+global.mods = ['6289668726356', '6289668726356'] // Moderator
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
   // name: 'https://website'
